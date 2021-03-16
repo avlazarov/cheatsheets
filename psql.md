@@ -1,4 +1,4 @@
-## Dump into CSV
+# Dump into CSV
 
 ```
 COPY (SELECT id FROM users)
